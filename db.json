@@ -1,0 +1,130 @@
+{
+    "joueurs": [
+        {
+            "id": "1",
+            "nom": "Lionel Messi",
+            "numero": 10,
+            "equipe": "Paris Saint-Germain"
+        },
+        {
+            "id": "2",
+            "nom": "Cristiano Ronaldo",
+            "numero": 7,
+            "equipe": "Manchester United"
+        },
+        {
+            "id": "3",
+            "nom": "Neymar Jr",
+            "numero": 10,
+            "equipe": "Paris Saint-Germain"
+        },
+        {
+            "id": "4",
+            "nom": "Kevin De Bruyne",
+            "numero": 17,
+            "equipe": "Manchester City"
+        },
+        {
+            "id": "5",
+            "nom": "Robert Lewandowski",
+            "numero": 9,
+            "equipe": "Bayern Munich"
+        }
+    ],
+    "produits": [
+        {
+            "id": "1",
+            "titre": "Ordinateur portable",
+            "prix": 999,
+            "categorie": "Électronique"
+        },
+        {
+            "id": "2",
+            "titre": "Montre",
+            "prix": 199,
+            "categorie": "Accessoires"
+        },
+        {
+            "id": "3",
+            "titre": "Chaussures de course",
+            "prix": 129,
+            "categorie": "Vêtements"
+        },
+        {
+            "id": "4",
+            "titre": "Enceinte Bluetooth",
+            "prix": 79,
+            "categorie": "Électronique"
+        },
+        {
+            "id": "5",
+            "titre": "Sac à dos",
+            "prix": 49,
+            "categorie": "Accessoires"
+        }
+    ],
+    "livres": [
+        {
+            "id": "1",
+            "titre": "Le Seigneur des Anneaux",
+            "auteur": "J.R.R. Tolkien",
+            "prix": 25
+        },
+        {
+            "id": "2",
+            "titre": "Harry Potter à l'école des sorciers",
+            "auteur": "J.K. Rowling",
+            "prix": 20
+        },
+        {
+            "id": "3",
+            "titre": "1984",
+            "auteur": "George Orwell",
+            "prix": 18
+        },
+        {
+            "id": "4",
+            "titre": "Le Petit Prince",
+            "auteur": "Antoine de Saint-Exupéry",
+            "prix": 15
+        },
+        {
+            "id": "5",
+            "titre": "L'Alchimiste",
+            "auteur": "Paulo Coelho",
+            "prix": 12
+        }
+    ],
+    "articles": [
+        {
+            "id": "1",
+            "title": "T-shirt",
+            "prix": 20,
+            "taille": "XS"
+        },
+        {
+            "id": "2",
+            "title": "Chemise",
+            "prix": 30,
+            "taille": "S"
+        },
+        {
+            "id": "3",
+            "title": "Pantalon",
+            "prix": 40,
+            "taille": "M"
+        },
+        {
+            "id": "4",
+            "title": "Veste",
+            "prix": 50,
+            "taille": "L"
+        },
+        {
+            "id": "5",
+            "title": "Robe",
+            "prix": 35,
+            "taille": "M"
+        }
+    ]
+}
